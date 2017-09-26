@@ -1,0 +1,24 @@
+{
+  "name": "microsoft-conf",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "Vladimir <vladimir.levin@opendev.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4"
+  },
+  "resolutions": {
+    "jquery": "^3.2.1"
+  }
+}

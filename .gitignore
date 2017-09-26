@@ -1,0 +1,12 @@
+.DS_Store
+nbproject
+node_modules/
+.gradle
+/*.zip
+/build
+webapp/
+.idea/
+/.nb-gradle/
+app/bower_components
+public/
+package-lock.json

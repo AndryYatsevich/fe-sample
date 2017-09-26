@@ -1,0 +1,35 @@
+{
+  "name": "catty-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://opa_oz@bitbucket.org/open-dev/puzzle-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.5.0",
+    "es6-promise": "^4.0.5",
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-inject": "^4.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-uglify": "^2.1.2",
+    "gulp-util": "^3.0.8",
+    "gulp-webserver": "^0.9.1",
+    "main-bower-files": "^2.13.1",
+    "stylelint-config-standard": "^16.0.0"
+  }
+}
