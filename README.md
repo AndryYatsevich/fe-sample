@@ -1,6 +1,6 @@
 ### How do I get set up? ###
 
 * npm install
-* gulp
-* start any server in webapp/ folder
+* gulp serve
+* start any server in public/ folder
 
